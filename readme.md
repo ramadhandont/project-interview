@@ -9,9 +9,7 @@
 
 ## Install Program
 
-Instekk database ada di database/tes.php
-
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
+Import database ada di database/tes.php
 
 ## About Laravel
 
