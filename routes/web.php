@@ -24,3 +24,8 @@ Route::post('/product/update','ProductController@update');
 Route::get('/product/edit/{id}','ProductController@edit');
 Route::get('/product/detail/{id}','ProductController@detail');
 Route::get('/product/hapus/{id}','ProductController@hapus');
+
+
+Route::get('/crud', function () {
+    return view('index2');
+});
